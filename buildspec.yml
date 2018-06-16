@@ -6,4 +6,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/test.war
+    - target/consumerBanking-1.0-SNAPSHOT.jar
